@@ -148,6 +148,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 5fecedea09e95c5409f90973ff24cc34, type: 3}
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::Ballmaker
+  ballPrefab: {fileID: 8980822171668976242, guid: 959cb34a174778f40aa1f7c9bff7a81e, type: 3}
 --- !u!4 &96242889
 Transform:
   m_ObjectHideFlags: 0
